@@ -6,7 +6,7 @@ metadata:
 spec:
   generators:
     - git:
-        repoURL: https://github.com//platform-self-service.git
+        repoURL: https://github.com/hfatehmahomed/platform-self-service.git
         revision: HEAD
         directories:
           - path: namespaces/*
